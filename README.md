@@ -10,7 +10,7 @@
 <br>
 
 # 🔎 Live View
-- [Live Site Link](https://guilhermerera.github.io/four-card-feature-section-master/)
+- [Live Site Link](https://fourcardsection-fm.netlify.app)
 - [FrontEnd Mentor Solution](https://www.frontendmentor.io/solutions/4-card-feature-section-using-flexbox-E32E2XOSe)
 
 <br>
